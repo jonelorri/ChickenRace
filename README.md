@@ -1,5 +1,5 @@
 # ChickenRace
-A bot that takes advantage of a bookmaker to generate money
+### A bot that takes advantage of a bookmaker to generate money
 
 
 Useing a chromedriver with a webscraper we can automatically snipe the free races that this bookmarker gives us sometimes. You just need to have a Ethereum Wallet and some chickens on it. 
